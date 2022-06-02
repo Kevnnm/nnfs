@@ -1,3 +1,4 @@
-/venv/
-/fashion_mnist_images.zip
-**/fashion_mnist_images/*
+**/venv/
+**/fashion_mnist_images.zip
+**/fashion_mnist_images/
+**/.idea/
